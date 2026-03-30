@@ -74,6 +74,11 @@ int main(){
 
     cout<<"Status kelulusan = "<<status<<" ,dengan nilai rata-rata = "<<rerata<<endl;
 
+    //Logika AND
+    cout<<"Masukkan nilai Matematika = ";
+    cin>>nilM;
+    cout<<"Masukkan nilai Bahasa Inggris = ";
+    cin>>nilB;
 
    
 
