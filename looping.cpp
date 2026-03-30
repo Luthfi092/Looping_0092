@@ -14,10 +14,10 @@ int main(){
 
     cout<<endl;
 
-  
+    //untuk mendapatkan urutan angka acak yg berbeda
+    srand(time(0));
 
-  
-
+ 
   
 
   
